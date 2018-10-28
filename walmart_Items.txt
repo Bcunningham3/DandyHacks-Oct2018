@@ -1,0 +1,74 @@
+Apple .25
+Bananna .49/LB
+Pear .99/LB
+Peach 4.49/LB
+Strawberry 5.99/32 oz
+Kiwi .50
+Orange 5.49/3LB
+Pineapple 2.99
+Watermelon
+Honeydew 4.99
+Grapes 2.99/LB
+Lemons 3.99oz
+Clemetaines
+Cantaloupe 3.99
+Mangoes 1.50
+Pomegranate 3.00
+Avocado 1.49
+HERBS =================================
+Parsley 2.29 .25oz
+Basil 3.49
+VEGETABLES ============================
+Green beans 1.99/LB
+Cucumber .50
+Green Bell Pepper 3.49
+Lettuce 2.49
+Celery 3.49
+Tomatoe 3.99/LB
+Broccoli 7.49/LB
+Potatoes 1.99/5LB
+Corn .67
+Carrots 1.29 16oz
+Cabbage 1.29/LB
+Cauliflower 4.99
+Onion 4.99 48oz
+Garlic 3.99/6oz
+Radish 2.69
+DAIRY ==================================
+Eggs 1 dozen 3.99
+Milk 1 Gallon 1.69
+Butter 2.49
+
+MEAT ====================================
+Ground Beef 6.79/16oz
+Beef Roll 1.79 28oz
+Beef Sirloin 13.99/LB
+Beef Patties 3.69/LB
+Angus Ground Beef Patties
+Organic Beef Patty 7.99/21.3 oz
+Chicken Breasts 1.99/LB
+Chicken Thighs .99/LB
+Ground Chicken 6.49/16 oz
+Chicken Drumsticks .99/LB
+Whole Chicken 1.49/LB
+Chicken Livers 2.19
+Chicken Gizzards 2.24
+Popcorn chicken 6.29
+chicken nuggets 7.49
+Turkey Breast 10.99
+Whole Turkey 1.79/LB (5.75lb turkey)
+Organic whole Turkey 5.99/LB (4.6 lb Turkey)
+Pork Chops 1.99/LB (3.32 lbs)
+Pork Loin 1.69/lb (8.5lb)
+Pork Shoulder 1.49lb(8.4lb)
+Meatballs 7.99
+Boneless Ham 9.99/lb(1.5lb)
+Pork Space Ribs 3.29/lb (6.25 lb)
+Bacon 6.29
+Hotdogs 1.39/16oz
+Sausage 2.99/lb (3.25 lb)
+Breakfast Sausage 5.29
+Kielbasa 3.79
+Shrimp 19.98/32oz
+Crab 3.49/14 oz
+Tilapia 9.98/32 oz

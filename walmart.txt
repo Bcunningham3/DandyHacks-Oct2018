@@ -1,0 +1,133 @@
+ground beef 3.33
+93% Lean/7% Fat Lean Ground Beef Tray 4.48
+80% Lean/20% Fat Ground Beef Chuck Tray 3.78
+80% Lean/20% Fat Ground Beef Chuck Tray 3.33
+73% Lean/27% Fat Ground Beef Roll 2.72
+80% Lean/20% Fat Ground Beef Chuck Roll 3.44
+93% Lean/7% Fat Lean Ground Beef Roll 4.68
+Marketside 85% Lean/15% Fat Organic Grass-Fed Ground Beef 5.46
+93% Lean/7% Fat Lean Ground Beef Tray 4.00
+90% Lean/10% Fat Ground Beef Sirloin Tray 4.41
+93% Lean/7% Fat Ground Beef Patties 5.87
+90% Lean/10% Fat Ground Beef Sirloin Tray 4.41
+93% Lean/7% Fat Ground Beef Patties 5.87
+73% Lean/27% Fat Ground Beef Roll 2.17
+80% Lean/20% Fat Ground Beef Chuck Roll 2.58
+80% Lean/20 % Fat Ground Beef Tray 3.07
+80% Lean/20% Fat Ground Beef Chuck Roll 3.12
+73% Lean/27% Fat Ground Beef Roll 2.48
+96% Lean/4% Fat Extra Lean Ground Beef Tray 5.47
+90% Lean/10% Fat Ground Beef Sirloin Tray 4.56
+73% Lean Frozen Ground Beef Roll 2.88
+73% Lean/27% Fat Ground Beef Roll 1.99
+85% Lean/15% Fat Ground Beef Round Tray 4.21
+85% Lean/15% Fat Ground Beef Round Tray 4.32
+85% Lean/15% Fat Ground Beef Round Tray 4.32
+Bacon & Cheddar Beef Chuck Patties 4.49
+Marketside Grass-Fed Ground Beef 90% Lean 10% Fat 5.98
+85% Lean/15% Fat Angus Ground Beef Patties 4.64
+73% Lean/27% Fat Ground Beef Tray 2.75
+93% Lean/7% Fat Lean Ground Beef Tray 3.78
+80% Lean/20% Fat Ground Beef Chuck Patties 4.12
+73% Lean/27% Fat Ground Beef Tray 3.00
+Organic Grass-Fed 93% Lean Ground Beef 6.48
+85% Lean/15% Fat Frozen Ground Beef Roll 3.62
+Marketside Grass-Fed Ground Beef 80% Lean 20% Fat 5.48
+85% Lean/15% Fat Ground Beef Roll 3.84
+Prime Rib Beef Steak Patties 5.25
+85% Lean/15% Fat Organic Grass-Fed Ground Beef Patty 5.46
+96% Lean/4% Fat Extra Lean Ground Beef Tray 5.41
+73% Lean/27% Fat Ground Beef Tray 2.44
+80% Lean/20% Fat Ground Beef Patties 3.83
+90% Lean/10% Fat Ground Beef Sirloin Patties 5.24
+Mushroom & Swiss Beef Patties 5.27
+Meatball and Meatloaf Mix 3.32
+80% Lean/20% Fat Ground Beef and Pork Tray 2.88
+French Onion & Gruyere Cheese Angus Beef Patties 4.94
+Italian Style Ground Beef and Pork Meatballs Tray 4.98
+85% Lean/15% Fat Angus Ground Beef 4.25
+80% Lean/20% Fat Ground Beef Patties 3.98
+CHICKEN 1.88
+Fresh Boneless Skinless Chicken Breasts 1.88
+Fresh Boneless Skinless Chicken Thighs 1.99
+Perdue Harvestland Fresh Ground Chicken 3.47
+Fresh Chicken Drumsticks .96
+Great Value Breaded Chicken Breast Strips 2.39
+Fresh Boneless Skinless Thighs 2.52
+Perdue Fresh Chicken Drumsticks Skin-On 1.26
+Perdue Fresh Whole Chicken with Giblets .98
+Perdue Harvestland Fresh Whole Chicken with Giblets 1.58
+Perdue Fresh Chicken Livers 1.35
+Perdue Fresh Chicken Gizzards 1.44
+Chicken Paws 1.98
+Pilgrim's Breaded Popcorn Chicken 2.49
+Turkey 3.36
+whole turkey 1.88
+Butterball Frozen Savory Herb Boneless Turkey Breast Roast 3.36
+Butterball Li'l Frozen Whole Turkey 1.88
+Honest Turkey Frozen Whole Antibiotic-Free Turkey 1.88
+HAM 3.97
+Pork Chops 4.38
+Boneless Center Cut Thin Pork Chops 4.78
+Boneless Ribeye Pork Chops 3.74
+Pork Loin Center Cut Small Chops 3.98
+Tyson Fresh Boneless Pork Shoulder Picnic Roast 2.74
+pork roast 2.74
+Great Value Pork Italian Style Meatballs 12 count 2.94
+meatballs 2.94
+Farmland Hickory Smoked Boneless Ham 2.5
+Extra Tender Pork Spare Ribs 2.28
+Ribs 2.28
+Great Value Original Bacon 12 oz 3.12
+HOTDOG 1.33
+Bar-S Franks Made with Chicken Pork Added 1.44
+Sausage 2.98
+Hillshire Farm Smoked Sausage Rope 14 oz 2.98
+Breakfast Sausage 2.98
+HORMEL Bacon & Pork Maple Flavor Sausage 12 CT BOX 1.24
+bacon 1.24
+Kielbasa 3.08
+Hillshire Farm Polska Kielbasa Smoked Sausage Rope 14 oz 3.08
+Shrimp 6.0
+Cooked Small Shrimp 12 oz 6.0
+Flounder Fillets 4.42
+Great Value Wild Caught Flounder Fillets 4.42
+Crab 8.0
+TransOcean Crab Classic Imitation Crab Leg Style 8.0
+Tilapia .63
+Fresh Farm Raised Tilapia .63
+Bananas .47
+Lemons .58
+Clementines 1.66
+Cantaloupe 2.28
+Plum .56
+Watermelon 3.98
+Orange .78
+Apple .94
+Mangoes 1.18
+Kiwi .44
+Strawberry 3.16
+Honeydew 2.48
+Pear 1.03
+Pomegranate 1.98
+Avocado 1.97
+Parsley 2.03
+Cucumber .58
+Green Bell Pepper .84
+Lettuce 1.28
+Celery 1.28
+Tomato 1.58
+Broccoli Crowns 1.88
+Simply Perfect Russet Potatoes 5.0
+Sweet Potatoes 0.98
+Corn .78
+Carrots .78
+Cauliflower 1.97
+Cabbage 2.34
+Onion 1.18
+Garlic .52
+Radish .98
+Eggs 1.63
+Milk 1.85
+Butter 2.36
+peanut butter 4.28

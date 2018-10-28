@@ -1,0 +1,10 @@
+Wegmans:
+Total Price: $136.40
+
+Walmart:
+Total Price: $88.24
+Items Not Found:
+EGGS
+YOGURT
+LACTAID
+

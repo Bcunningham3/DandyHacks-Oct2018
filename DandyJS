@@ -1,0 +1,22 @@
+function populatePre(url) {
+    var xhr = new XMLHttpRequest();
+    xhr.onload = function () {
+        document.getElementById('contents').textContent = this.responseText;
+    };
+    xhr.open('GET', url);
+    xhr.send();
+}
+populatePre('path/to/file.txt');
+
+document
+    .getElementById('filechoice')
+    .addEventListener(
+        'change',
+        function () {
+            var fr = new FileReader();
+            fr.onload = function () {
+                document.getElementById('contents').textContent = this.result;
+            };
+            fr.readAsText(this.files[0]);
+        }
+    );

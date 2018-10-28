@@ -1,0 +1,68 @@
+Apple 1.89
+Banana 1.49
+Pear 1.99
+Peach 1.49
+Strawberry 2.49
+Kiwi 2.69
+Orange 3.79
+Pineapple 2.69
+Watermelon 3.79
+Honeydew 1.69
+Grapes 2.39
+Lemons 1.69
+Clementines 2.89
+Cantaloupe 2.99
+Plum 2.19
+Mangoes 4.49
+Pomegranate 2.49
+Avocado 4.19
+Parsley 2.99
+Cucumber 2.19
+Green Bell Pepper 3.69
+Lettuce 3.99 
+Celery 3.49
+Tomato 2.19
+Broccoli 4.49
+Potato 2.69
+Corn 3.19
+Carrots 2.49
+Cauliflower 2.19
+Onion 4.99
+Garlic 2.99
+Raddish 7.99
+Eggs 3.69
+Milk 7.89
+Butter 2.79
+Ground Beef 8.49
+Beef Roll 9.49
+Beef Sirloin 7.19
+Beef Patties 4.49
+Angus Ground Beef Patties 5.99
+Organic Beef Patty 7.19
+Chicken Breasts 4.19
+Chicken Thighs 4.49
+Ground Chicken 7.69
+Chicken Drumsticks 3.99
+Whole Chicken 6.49
+Chicken Livers 4.99
+Chicken Gizzards 8.79
+Chicken Paws 6.19
+Popcorn chicken 3.99
+chicken nuggets 6.49
+Turkey Breast 6.19
+Whole Turkey 6.29
+Organic whole Turkey 6.49
+Pork Chops 3.79
+Pork Loin 8.99
+Pork Shoulder 3.89
+Meatballs 7.59
+Boneless Ham 4.59
+Pork Space Ribs 8.49
+Bacon 3.49
+Hotdogs 3.99
+Sausage 2.49
+Breakfast Sausage 3.29
+Kielbasa 2.69
+Shrimp 4.79
+Crab 3.39
+Tilapia 4.79

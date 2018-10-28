@@ -1,0 +1,16 @@
+Wegmans:
+Total Price: $989999.01
+Items Not Found:
+BANANA
+
+Walmart:
+Total Price: $1029998.97
+Items Not Found:
+BANANA
+
+Whole Foods:
+Total Price: $1690003.47
+
+Price Right:
+Total Price: $1990003.97
+

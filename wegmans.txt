@@ -9,7 +9,7 @@ Tide HE detergent 7.99
 Lactaid 4.99
 Kraft Shredded Sharp Cheddar 2.49
 Kellogg's Pop-Tarts 1.63
-Bananas 0.49
+Banana 0.49
 Gala Apples 1.69
 Hunts Diced Tomatoes 1.19
 Kraft Easy-Mac 3.29
@@ -28,7 +28,6 @@ Kraft American Singles 2.69
 Guiness 6.99
 Tropicana 5.28
 Apple .99
-Bananna .49
 Pear .99
 Peach 4.49
 Strawberry 5.99

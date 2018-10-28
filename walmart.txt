@@ -96,7 +96,7 @@ Crab 8.0
 TransOcean Crab Classic Imitation Crab Leg Style 8.0
 Tilapia .63
 Fresh Farm Raised Tilapia .63
-Bananas .47
+Banana .47
 Lemons .58
 Clementines 1.66
 Cantaloupe 2.28

@@ -1,0 +1,8 @@
+On launch, the program opens a GUI
+From the GUI the users have options to do several things:
+Login
+Make a shopping list
+If user decides to log in, they can view their past shopping lists
+If user clicks items, program will display all the available items user can purchase
+If user decides to enter a shopping list, the program will find the items they need
+The program finds the items at the lowest price and displays the cheapest option for store

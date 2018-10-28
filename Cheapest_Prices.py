@@ -3,7 +3,8 @@ Finds the store with the cheapest prices for the food you need
 """
 import turtle as t
 from tkinter import *
-import time
+
+
 t.tracer(0, 0)
 t.ht()
 
@@ -45,7 +46,7 @@ class Window(Frame):
 
     def enteritem_window(self):
         self.main_window()
-        get_grocery_list(False)
+        get_grocery_list(False, False)
         # Function for Enter Items Button
 
     def login_button(self):
@@ -67,7 +68,7 @@ class Window(Frame):
             t.write("Prices Printed", align='center', font=("Arial", 32, "normal"))
         else:
             items('store_items.txt')
-            get_grocery_list(True, user, user_pass, user_order)
+            get_grocery_list(True, new, user, user_pass, user_order)
 
 
     def item_button(self):
@@ -128,7 +129,7 @@ def format_order(order):
     return dct
 
 
-def get_grocery_list(save, user='', user_pass={}, user_order={}):
+def get_grocery_list(save, new, user='', user_pass={}, user_order={}):
     dct = dict()
     foods = food_dict()
     string = ''
@@ -139,12 +140,17 @@ def get_grocery_list(save, user='', user_pass={}, user_order={}):
         if item == 'STOP':
             main(dct)
             t.reset()
+            t.up()
             t.setworldcoordinates(0, 0, 100, 100)
             t.goto(50, 50)
             t.write("Prices Printed", align='center', font=("Arial", 32, "normal"))
             t.goto(-100, -100)
             if save:
-                if check_yes(t.textinput("Save Order", "Would you like to save this order to quick order?")):
+                if new:
+                    dct = dict_format(dct)
+                    user_order[user] = dct
+                    save_order(user, user_pass, user_order)
+                elif check_yes(t.textinput("Save Order", "Would you like to save this order to quick order?")):
                     dct = dict_format(dct)
                     user_order[user] = dct
                     save_order(user, user_pass, user_order)
